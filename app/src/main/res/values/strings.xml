@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily_Quotes</string>
+    <string name="add_favorite" />
+    <string name="remove_favorite" />
+</resources>
